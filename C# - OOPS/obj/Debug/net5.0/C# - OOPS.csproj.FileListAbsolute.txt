@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\C# - OOPS.exe
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\C# - OOPS.deps.json
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\C# - OOPS.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\C# - OOPS.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\C# - OOPS.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\ref\C# - OOPS.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\bin\Debug\net5.0\C# - OOPS.pdb
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\ref\C# - OOPS.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.pdb
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\obj\Debug\net5.0\C# - OOPS.genruntimeconfig.cache

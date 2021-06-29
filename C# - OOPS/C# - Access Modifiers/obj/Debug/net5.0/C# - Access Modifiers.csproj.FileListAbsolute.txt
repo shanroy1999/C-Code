@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\C# - Access Modifiers.exe
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\C# - Access Modifiers.deps.json
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\C# - Access Modifiers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\C# - Access Modifiers.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\C# - Access Modifiers.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\ref\C# - Access Modifiers.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\bin\Debug\net5.0\C# - Access Modifiers.pdb
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\ref\C# - Access Modifiers.dll
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.pdb
+C:\Users\Lenovo\Desktop\New folder\Deloitte\Udemy Courses\9 - C# Basics\C# - OOPS\C# - Access Modifiers\obj\Debug\net5.0\C# - Access Modifiers.genruntimeconfig.cache
